@@ -1,0 +1,31 @@
+14
+rolf
+sigg
+demo
+shri
+subm
+beny
+dann
+dadd
+benn
+sync
+jann
+rich
+yuzu
+seth
+vote beny
+rolf sigg demo subm dann benn jann yuzu seth
+vote seth
+sigg subm sync yuzu shri dadd
+died yuzu
+died dadd
+died demo
+died seth
+died beny
+died dann
+vote sigg
+subm benn sync
+died shri
+died subm
+town beny
+town rich
